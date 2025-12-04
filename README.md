@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @codeplay009
-- 👀 I’m interested in  webapp
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on awwward.com
-- 📫 How to reach me mail me on codeplay009@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i don't know how to talk!!
+👋 Hi, I'm Rudrapratap Vishwakarma
+🎓 B.Tech IT Student @ USICT, GGSIPU (2023–2027)
+💻 Web Developer | Problem Solver
+🚀 Passionate about building innovative web apps with extraordinary features & smooth experience for the users
 
 <!---
 codeplay009/codeplay009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
