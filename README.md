@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Learner;React+Enthusiast;Node.js+Developer;Open+Source+Learner;Just+Playing+with+Code+💙" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer;Web+Developer;React+Native+Developer;Exploring+Desktop+Development" />
 </p>
 
 ---
