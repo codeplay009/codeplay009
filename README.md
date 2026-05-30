@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rudrapratap Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 
 <h3 align="center">
-🎓 B.Tech IT Student @ USICT, GGSIPU (2023–2027)
+🎓 B.Tech CSE Student @ USICT, GGSIPU (2023–2027)
 </h3>
 
 <h3 align="center">
