@@ -1,4 +1,4 @@
-<!-- ANIMATED HERO BANNER — looks like a looping video -->
+<!-- ANIMATED HERO BANNER -->
 <div align="center">
 
 ![hero](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a4a,60:0d1117,100:0a1628&height=280&section=header&text=Rudrapratap%20Vishwakarma&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Web%20Developer%20%7C%20App%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&descColor=00f7ff&stroke=58a6ff&strokeWidth=2)
@@ -16,15 +16,6 @@
 </div>
 
 <br/>
-
-<!-- ANIMATED SNAKE CONTRIBUTION -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeplay009/codeplay009/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeplay009/codeplay009/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/codeplay009/codeplay009/output/github-snake-dark.svg" />
-</picture>
-</div>
 
 ---
 
@@ -105,8 +96,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeplay009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeplay009&layout=compact&theme=tokyonight&hide_border=true"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/codeplay009?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/codeplay009)
+[![GitHub User's stars](https://img.shields.io/github/stars/codeplay009?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/codeplay009)
+[![Profile Views](https://komarev.com/ghpvc/?username=codeplay009&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/codeplay009)
+
+</div>
+
+<div align="center">
+
+| 🏆 Stat | 📈 Value |
+|---|---|
+| 💻 Primary Stack | Next.js · React Native · Flutter |
+| 🗄️ Databases | MongoDB · MySQL · Firebase |
+| ☁️ Cloud | Cloudinary · Vercel · Firebase |
+| 🌐 Currently Building | Desktop Apps & Cloud Infra |
+| 🎯 Focus | User-first · Scalable · Clean Code |
+
 </div>
 
 ---
@@ -114,7 +120,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codeplay009&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codeplay009&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -122,27 +128,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeplay009&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeplay009&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 😂 Random Dev Meme
-
-<div align="center">
-  <a href="https://meme-api.com/gimme" target="_blank">
-    <img src="https://meme-api.com/gimme/ProgrammerHumor/1/image" width="420px" style="border-radius:12px;" alt="Dev Meme" />
-  </a>
-  <br/>
-  <sub>😂 <i>random dev meme · changes every visit</i></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeplay009&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -173,10 +159,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codeplay009&icon=0&color=0"/>
-</div>
 
 <br/>
 
